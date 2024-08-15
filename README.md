@@ -47,13 +47,6 @@
 
 <br>
 
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SegiJo&layout=donut)
-
-
-<br>
-
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="mailto:jsg0423@naver.com">
