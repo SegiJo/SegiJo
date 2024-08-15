@@ -48,8 +48,9 @@
 <br>
 
 <br>
-
+<div align="center">
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SegiJo&layout=donut)
+</div>
 
 <br>
 
