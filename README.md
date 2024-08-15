@@ -41,7 +41,9 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:rlatngus1691@naver.com)
+  <a href="mailto:jsg0423@naver.com">
+    <img src="https://img.shields.io/badge/Naver-#3C75A?style=for-the-badge&logo=naver&logoColor=white" />&nbsp
+  </a>
   <a href="mailto:oka1313@gmail.com">
     <img
       src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
