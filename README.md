@@ -44,9 +44,9 @@
   <a href="mailto:jsg0423@naver.com">
     <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white" />&nbsp
   </a>
-  <a href="mailto:oka1313@gmail.com">
+  <a href="mailto:jsg2419@gmail.com">
     <img
-      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
 
