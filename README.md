@@ -1,3 +1,10 @@
+<h1 align="center">Hi, I'm mingyu</h1>  
+  
+
+<div id="header" align="center">
+  <img src="https://blog.kakaocdn.net/dn/68d6v/btqDSiVLaY6/UffhOKyQbKkdaqkloLZFlk/img.gif&rid=giphy.gif&ct=s" alt="developer img" width="100" />  
+</div>
+
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
