@@ -42,7 +42,7 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="mailto:jsg0423@naver.com">
-    <img src="https://img.shields.io/badge/Naver-#3C75A?style=for-the-badge&logo=Naver&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white" />&nbsp
   </a>
   <a href="mailto:oka1313@gmail.com">
     <img
