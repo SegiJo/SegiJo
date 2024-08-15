@@ -2,7 +2,7 @@
   
 
 <div id="header" align="center">
-  <img src="https://blog.kakaocdn.net/dn/68d6v/btqDSiVLaY6/UffhOKyQbKkdaqkloLZFlk/img.gif />  
+  <img src="https://blog.kakaocdn.net/dn/68d6v/btqDSiVLaY6/UffhOKyQbKkdaqkloLZFlk/img.gif&rid=giphy.gif&ct=s" alt="developer img" width="300" /> 
 </div>
 
 <!--내용 부분-->
