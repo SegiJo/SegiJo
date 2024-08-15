@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm mingyu</h1>  
+<h1 align="center">Hi, I'm segi :)</h1>  
   
 
 <div id="header" align="center">
