@@ -49,9 +49,6 @@
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SegiJo&repo=Segijo.github.io&theme=buefy" />
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SegiJo&layout=donut)
 
 
