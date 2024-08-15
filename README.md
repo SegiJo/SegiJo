@@ -46,4 +46,6 @@
   </a>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SegiJo&layout=compact)
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SegiJo&layout=dounutchart)
